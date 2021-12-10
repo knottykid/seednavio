@@ -1,0 +1,13 @@
+.card-bg-color{
+    background: black;
+    color: white;
+}
+
+.chakra-ui-dark .card-bg-color{
+    background: #843d61;;
+
+}
+
+.cursor-card:hover{
+    cursor: pointer;
+}
